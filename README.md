@@ -1,12 +1,12 @@
 # React Weather App - ReactJS Projects
 
-![](weather.gif)
 
-### Demo - Deployed over Github Pages 
-[Demo]  (https://www.youtube.com/watch?v=_UXycMmVYj0)
 
-### I learn from this  
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
+
+
+[Demo ](https://wetherj.netlify.app/)
+  
+[I learn from this ](https://www.youtube.com/watch?v=_UXycMmVYj0)
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
@@ -27,8 +27,11 @@ https://openweathermap.org/current
 
 📕 Things Learn in this :
 
-✅ Developing and Styling UI with styled-compoents
+✅ Developing and Styling UI with styled-compoents  
 ✅ API setup with Open Weather
+<br>
 ✅ API integration with Axios
+<br>
 ✅ State Management using React Hooks
+<br>
 ✅ Conditional Rendering of Components
