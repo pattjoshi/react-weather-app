@@ -1,6 +1,7 @@
 # React Weather App - ReactJS Projects
 
 
+<img width="744" alt="image" src="https://user-images.githubusercontent.com/78966839/167159458-aa8c5cff-19e2-4dd2-b62f-2340998d49f5.png">
 
 
 
